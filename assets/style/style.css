@@ -1,0 +1,42 @@
+.flag-vietnam {
+    width: 20px;
+    margin-right: 5px;
+}
+.caret-down-fill {
+    width: 10px;
+    margin-left: 2px;
+}
+
+.backgroud-home {
+    height: 500px;
+    background: url("https://img.lovepik.com/background/20211020/large/lovepik-blue-background-material-image_400053828.jpg")
+        top center / cover no-repeat;
+}
+.title-backgroud_1 {
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #ffff;
+    font-size: 25px;
+}
+.title-backgroud_2 {
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #cf9b00;
+    font-size: 28px;
+    margin: 10px 0px;
+}
+.title-backgroud_text {
+    color: #ffff;
+    font-size: 18px;
+}
+.arrow-circle-right {
+    height: 20px;
+    color: #ffff;
+}
+.btn-free {
+    color: #ffff;
+    background: linear-gradient(to right, red, yellow);
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 50px;
+}

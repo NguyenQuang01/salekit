@@ -40,3 +40,54 @@
     padding: 10px 15px;
     border-radius: 50px;
 }
+.dedicated-website_title {
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(0, 104, 200);
+}
+.dedicated-website_item {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 10px;
+    height: 230px;
+}
+.backgroud-salakit-include_title {
+    color: #ffff;
+    font-size: 28px;
+    font-weight: bold;
+}
+.backgroud-salakit-include {
+    height: 650px;
+    background: radial-gradient(circle, rgb(0 105 189) 0%, rgb(0 102 255) 100%);
+}
+.backgroud-salakit-include_item {
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 500;
+}
+.backgroud-salakit-include_text {
+    color: #fff;
+    font-weight: 400;
+}
+.dedicated-all_in_one {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 10px;
+}
+.number-all_in_one {
+    background: rgb(0, 104, 200);
+    padding: 0px 10px;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    left: -18px;
+}
+.number2-all_in_one {
+    background: rgb(0, 104, 200);
+    padding: 0px 4px;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    left: -18px;
+}
